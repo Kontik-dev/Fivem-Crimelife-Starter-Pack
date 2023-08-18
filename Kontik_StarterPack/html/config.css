@@ -1,0 +1,16 @@
+@font-face {
+    font-family: PPMonumentExtended-Heavy;
+    src: url(./fonts/PPMonumet/PPMonumentExtended-Heavy.ttf);
+  }
+  @font-face {
+    font-family: NicoMoji;
+    src: url(./fonts/PPMonumet/nicomoji-plus_v2.ttf);
+  }
+
+:root {
+    --background-color: linear-gradient(119.35deg, rgba(60, 60, 60, 1) 0%, rgba(57, 57, 57, 0) 100%);
+    --titlecolor: #918787;
+    --titlelinie: linear-gradient(180deg, rgba(121, 121, 121, 1) 0%, rgba(121, 121, 121, 0) 100%);
+    --weaponviereckcolor: rgba(101, 101, 101, 0.75);
+    --buttoncolor: rgba(87, 87, 87, 0.75);
+}
